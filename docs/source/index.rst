@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+caxeng us
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`caxeng <https://caxeng.us/>`_ - Nền tảng cá cược trực tuyến đang thu hút sự chú ý và yêu thích từ cộng đồng người chơi Việt Nam. Giao diện thân thiện, dễ sử dụng kết hợp cùng tính năng đa dạng đã tạo nên trải nghiệm tuyệt vời cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Brand: caxeng
 
-.. note::
+Website: https://caxeng.us/ 
 
-   This project is under active development.
+Email: info@caxeng.us
 
-Contents
---------
+Điện Thoại: 0912481258
 
-.. toctree::
+Địa Chỉ: 199/24 Đ. Lê Quang Sung, Phường 6, Quận 6, Hồ Chí Minh, Việt Nam
 
-   usage
-   api
+Zipcode: 11500
+
+Tags: #caxeng #caxeng2 #caxeng2us #bancaxeng
